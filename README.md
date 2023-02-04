@@ -19,7 +19,8 @@ bash ./script.sh
 Данный проект можно портировать на другие языки программирования
 на Java
 
-``` class Main {
+``` 
+class Main {
         public static void main(String[] args) {
                 System.out.println("777");
         }
@@ -28,7 +29,8 @@ bash ./script.sh
 
 На С++
 
-``` #include<iostream>
+``` 
+#include<iostream>
 using namespace std;
 int main() {
     cout<<777 <<endl;
