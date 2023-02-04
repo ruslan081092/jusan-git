@@ -1,6 +1,6 @@
 #**stepik-id-printer(h1)**
 
-![Jusan-Images]((https://github.com/ruslan081092/ruslan081092/blob/master/image.png) 
+![Jusan-Images](https://github.com/ruslan081092/ruslan081092/blob/master/image.png) 
 ***
 это проект для вывода моего персонального идентификатора на образовательной платформе stepik.org
 ## Возможности (h2)
